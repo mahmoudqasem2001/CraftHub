@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "713463220223",
+    "project_id": "crafthubchat",
+    "storage_bucket": "crafthubchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713463220223:android:2de6ea680d43bd43bbc9ca",
+        "android_client_info": {
+          "package_name": "com.example.grad_new_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEeRGkoHdg7WS7lOGvCpK-bOgFgtjvejM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
